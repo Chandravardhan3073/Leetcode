@@ -17,10 +17,11 @@ public:
         }
         int lf = dfs(root->left,cnt);
         int rf = dfs(root->right,cnt);
-        if(root->val >= rf && root->val >= lf){
+        int  max_i = max(lf,rf);
+        if(root->val >= max_i){
             cnt++;
         }
-        return max(root->val,max(lf,rf));
+        return max(root->val,max_i);
     }
     int countDominantNodes(TreeNode* root) {
         int cnt = 0;
