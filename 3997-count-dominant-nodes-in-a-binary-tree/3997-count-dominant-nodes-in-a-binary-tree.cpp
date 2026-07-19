@@ -20,7 +20,7 @@ public:
         if(root->val >= rf && root->val >= lf){
             cnt++;
         }
-        return max({rf,lf,root->val});
+        return max(root->val,max(lf,rf));
     }
     int countDominantNodes(TreeNode* root) {
         int cnt = 0;
