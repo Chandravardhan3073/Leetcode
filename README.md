@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Chandravardhan3073/Leetcode/tree/master/0832-flipping-an-image) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -31,19 +32,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/0112-path-sum) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/0112-path-sum) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/0112-path-sum) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/0112-path-sum) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->
