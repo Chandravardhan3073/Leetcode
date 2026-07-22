@@ -1,20 +1,23 @@
 class Solution {
 public:
-    int solve(vector<int>& nums,vector<int>& dp,int idx){
-        if(idx <= 0){
-            return 0;
-        }
-        if(dp[idx] != -1){
-            return dp[idx];
-        }
-        int inc = solve(nums,dp,idx-2) + nums[idx-1];
-        int exc = solve(nums,dp,idx -1);
-        return dp[idx] = max(inc,exc);
-    }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n+1,-1);
-        int ans = solve(nums,dp,n);
-        return ans;
+        if (n == 1) {
+            return nums[0];
+        }
+        int dp_0 = nums[0];
+        int dp_1 = max(nums[1], nums[0]);
+        if(n == 2){
+            return dp_1;
+        }
+        int dp_i = 0;
+        for (int i = 2; i <= n-1; i++) {
+            dp_i = max(dp_0 + nums[i], dp_1);
+            dp_0 = dp_1;
+            dp_1 = dp_i;
+        }
+        return dp_i;
     }
 };
+
+ 
