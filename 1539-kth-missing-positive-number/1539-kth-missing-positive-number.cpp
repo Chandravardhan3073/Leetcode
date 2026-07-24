@@ -4,7 +4,7 @@ public:
         int end = arr[arr.size()-1];
         int cnt = 0;
         for(int i=1;i<=end+k;i++){
-            if(ranges::contains(arr, i)){
+            if(binary_search(arr.begin(),arr.end(), i)){
                 continue;
             }else{
                 cnt++;
