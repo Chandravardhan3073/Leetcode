@@ -5,13 +5,16 @@ public:
             return a < b;
         });
         int n = nums.size();
+       
         int num1 = nums[0];
         int num2 = nums[1];
-        int num_1 = nums[n-1];//max number 
+        int max_val  = INT_MIN;   
+        for(int i=2;i<n;i++){
+            max_val = max(max_val,num1*num2*nums[i]);
+        }
+        int num_1 = nums[n-1];
         int num_2 = nums[n-2];
         int num_3 = nums[n-3];
-        return  max(num_1*num2*num1,num_2*num_1*num_3); 
+        return  max(max_val,num_2*num_1*num_3); 
     }
 };
-
-//max(maxval*2 small values , 3 max vales from end after sort )
