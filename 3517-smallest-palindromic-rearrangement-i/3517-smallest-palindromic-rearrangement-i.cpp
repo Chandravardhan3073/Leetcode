@@ -1,19 +1,19 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-
+        vector<int> freq(26,0);
         int n = s.size();
-        if(n == 1) return s;
-        map<char,int> mp;
-        for(int i =0;i<n;i++){
-            mp[s[i]]++;
-        }
         string t;
-        for(const auto&[key,val]:mp){
-            t.append(val/2,key);
+        string m;
+        for(int i =0;i<n;i++){
+            freq[s[i]- 'a']++;
         }
-        string m =t;
-        reverse(m.begin(),m.end());
-        return n%2 == 0 ?  t + m: t + s[n/2] + m;
+        for(int i = 0;i<26;i++){
+            t.append(freq[i]/2, char(i + 'a'));
+        }
+        for(int i=t.size()-1;i>=0;i--){
+            m.push_back(t[i]);
+        }
+        return (n % 2 == 0) ? t+m: t+s[n/2]+m;
     }
 };
