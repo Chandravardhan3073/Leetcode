@@ -23,9 +23,12 @@ public:
         }
         TreeNode* lf = dfs(root->left,limit,Sum);
         TreeNode* rf = dfs(root->right,limit,Sum);
-        
-        root->left = lf;
-        root->right = rf;
+        if(lf == NULL){
+            root->left = NULL;
+        }
+        if(rf == NULL){
+            root->right = NULL;
+        }      
         if(lf == NULL && rf == NULL){
             return NULL;
         }
