@@ -21,15 +21,10 @@ public:
                 return root;
             }
         }
-        TreeNode* lf = dfs(root->left,limit,Sum);
-        TreeNode* rf = dfs(root->right,limit,Sum);
-        if(lf == NULL){
-            root->left = NULL;
-        }
-        if(rf == NULL){
-            root->right = NULL;
-        }      
-        if(lf == NULL && rf == NULL){
+        root->left = dfs(root->left,limit,Sum);
+        root->right = dfs(root->right,limit,Sum);
+     
+        if(root->left == NULL && root->right == NULL){
             return NULL;
         }
         return  root;
