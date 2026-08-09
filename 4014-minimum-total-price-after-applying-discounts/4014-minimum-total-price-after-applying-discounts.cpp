@@ -7,7 +7,7 @@ public:
         double ans = 0;
         while(i<prices.size() && j < discounts.size()){
             ans += (prices[i] * (100 - discounts[j])) / 100.0 ;
-            cout << prices[i] << " " << discounts[j] ;
+            
             i++;j++;
         }
         for(int id = i;i<prices.size();i++){
