@@ -1,8 +1,12 @@
 class Solution {
 public:
     double minPrice(vector<int>& prices, vector<int>& discounts) {
-        sort(prices.begin(),prices.end(),greater());
-        sort(discounts.begin(),discounts.end(),greater());
+        sort(prices.begin(),prices.end(),[](int a,int b){
+            return a > b;
+        });
+        sort(discounts.begin(),discounts.end(),[](int a ,int b){
+            return a > b;
+        });
         int i = 0,j = 0,idx;
         double ans = 0;
         while(i<prices.size() && j < discounts.size()){
