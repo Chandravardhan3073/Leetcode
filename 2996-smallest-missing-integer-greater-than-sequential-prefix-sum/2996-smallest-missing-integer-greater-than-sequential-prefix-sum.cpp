@@ -14,10 +14,11 @@ public:
             }
         } 
         while(true){
-            if(mp.find(sum) == mp.end()){
+            if(mp.find(sum) != mp.end()){
+                sum++;
+            }else{
                 return sum;
             }
-            sum++;
         }
         return sum;
     }
