@@ -1,11 +1,8 @@
 class Solution {
 public:
     int missingInteger(vector<int>& nums) {
-        unordered_map<int,int> mp;
+        unordered_set <int> s(nums.begin(),nums.end());
         int sum = nums[0],n = nums.size();
-        for(int i=0;i<n;i++){
-            mp[nums[i]]++;
-        }
         for(int i =1;i<n;i++){
             if(nums[i] == nums[i-1]+1){
                 sum += nums[i];
@@ -13,12 +10,8 @@ public:
                 break;
             }
         } 
-        while(true){
-            if(mp.find(sum) != mp.end()){
-                sum++;
-            }else{
-                return sum;
-            }
+        while(s.count(sum)){
+            sum++;
         }
         return sum;
     }
