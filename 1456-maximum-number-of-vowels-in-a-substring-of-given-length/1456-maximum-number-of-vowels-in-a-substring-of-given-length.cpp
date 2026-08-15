@@ -1,11 +1,7 @@
 class Solution {
 public:
     bool isVowel(char ch){
-        if(ch == 'a'|| ch =='e'||ch =='i'||ch =='o'|| ch=='u'){
-            return true;
-        }else{
-            return false;
-        }
+        return  ch == 'a'|| ch =='e'||ch =='i'||ch =='o'|| ch=='u';
     }
     int maxVowels(string s, int k) {
         int n = s.size(),r=0;
@@ -19,7 +15,6 @@ public:
             r++;
         }
         maxVowel = max(maxVowel,cnt);
-        cout << r << " ";
         while(r <s.size()){
             if(isVowel(s[l])){
                 cnt--;
@@ -34,3 +29,5 @@ public:
         return maxVowel;
     }
 };
+
+//sliding window done O(N)
