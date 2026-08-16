@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Chandravardhan3073/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandravardhan3073/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandravardhan3073/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Chandravardhan3073/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chandravardhan3073/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0746-min-cost-climbing-stairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Chandravardhan3073/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0832-flipping-an-image](https://github.com/Chandravardhan3073/Leetcode/tree/master/0832-flipping-an-image) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/Chandravardhan3073/Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandravardhan3073/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chandravardhan3073/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Chandravardhan3073/Leetcode/tree/master/3731-find-missing-elements) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Chandravardhan3073/Leetcode/tree/master/0409-longest-palindrome) |
+| [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandravardhan3073/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
@@ -178,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chandravardhan3073/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->
