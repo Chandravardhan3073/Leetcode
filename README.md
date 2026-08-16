@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandravardhan3073/Leetcode/tree/master/3731-find-missing-elements) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Chandravardhan3073/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandravardhan3073/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandravardhan3073/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandravardhan3073/Leetcode/tree/master/3731-find-missing-elements) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
