@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandravardhan3073/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Chandravardhan3073/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Chandravardhan3073/Leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Chandravardhan3073/Leetcode/tree/master/0409-longest-palindrome) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandravardhan3073/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravardhan3073/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Chandravardhan3073/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Chandravardhan3073/Leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
