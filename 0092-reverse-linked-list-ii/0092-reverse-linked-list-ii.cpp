@@ -22,56 +22,46 @@ public:
         }
         return prev;
     }
+
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if(head == NULL || head->next == NULL || left == right){
             return head;
         }
-        if(left == 1){
-            int cnt = 1;
-            ListNode* e , *t,*rightSt,*temp;
-            temp = head;
-            while(temp){
-                cnt++;
-                if(cnt == right){
-                    t = temp;
-                }
-                temp = temp->next;
-            }
-            e = t->next;
-            rightSt = e->next;
-
-            e->next = NULL;
-            ListNode* newHead = reverse(head);
-
-            head->next = rightSt;
-            return newHead;
-        }
-
         int cnt = 1;
         ListNode* temp = head;
-        ListNode* leftEnd,*st,*end,*rightSt,*t;
+        ListNode *st,*end,*rightSt;
+        ListNode* leftEnd = NULL;
+        
         while(temp){
-            cnt++;
-            if(cnt == left){
+            if(cnt == left-1){
                 leftEnd = temp;
             }
-            if(cnt == right){
-                t = temp;
+            if(cnt == left){
+                st = temp;
             }
+            if(cnt == right){
+                end = temp;
+            }
+            cnt++;
             temp = temp->next;
         }
-         
-        st = leftEnd->next;
-        end =  t->next;
-        rightSt = end->next;
-        
-        leftEnd->next = NULL;
+
+
+        rightSt  = end->next;
+
+        if(leftEnd != NULL){
+            leftEnd->next = NULL; 
+        }
         end->next = NULL;
-
+ 
         ListNode* newHead = reverse(st);
+        
+        if(leftEnd != NULL){
+            leftEnd->next = newHead;
+        }else{
+            head = newHead;
+        }
 
-
-        leftEnd->next = newHead;
         st->next = rightSt;
 
         return head;
