@@ -22,30 +22,25 @@ public:
         }
         return prev;
     }
-    ListNode* AtHead(ListNode* &node,int val){
-        ListNode* newNode = new ListNode(val);
-        if(node== NULL){
-            node = newNode;
-        }else{
-            newNode->next = node;
-            node= newNode;
-        }
-        return node;
-    }
     ListNode* doubleIt(ListNode* head) {
-        ListNode* l1 = reverse(head);
+        head  = reverse(head);
         ListNode* node = NULL;
-        int sum = 0,digit = 0,carry = 0;
-        while(l1){
-            sum = l1->val * 2  + carry;
-            digit = sum %10;
+        int sum = 0 ,carry = 0;
+        ListNode* curr = head;
+        while(curr){
+            sum = curr->val * 2  + carry;
+            curr->val = sum %10;
             carry = sum /10;
-              AtHead(node,digit);
-            l1 = l1->next;
+            curr = curr->next;
         }
+        head = reverse(head);
+
         if(carry){
-           AtHead(node,carry);
+            ListNode* newNode = new ListNode(carry);
+            newNode->next = head;
+            head = newNode;
         }
-        return node;
+
+        return head;
     }
 };
