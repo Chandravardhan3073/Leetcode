@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0002-add-two-numbers) |
 | [0233-number-of-digit-one](https://github.com/Chandravardhan3073/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chandravardhan3073/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Chandravardhan3073/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandravardhan3073/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
