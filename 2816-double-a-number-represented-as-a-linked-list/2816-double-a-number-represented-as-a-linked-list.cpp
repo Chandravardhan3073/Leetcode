@@ -22,7 +22,6 @@ public:
         }
         return prev;
     }
-
     ListNode* AtHead(ListNode* &node,int val){
         ListNode* newNode = new ListNode(val);
         if(node== NULL){
@@ -33,40 +32,16 @@ public:
         }
         return node;
     }
-
-    ListNode* copyList(ListNode* head){
-        ListNode* temp = head;
-        
-        ListNode* copyHead = NULL;
-        ListNode* tail = NULL;
-        while(temp){
-            ListNode* newNode = new ListNode(temp->val);
-            if(copyHead == NULL){
-                copyHead = newNode;
-                tail = newNode;
-            }else{
-                tail->next = newNode;
-                tail = newNode;
-            }
-            temp = temp->next;
-        }
-        return copyHead;
-    }
-
     ListNode* doubleIt(ListNode* head) {
         ListNode* l1 = reverse(head);
-
-        ListNode* l2 = copyList(l1);
-
         ListNode* node = NULL;
         int sum = 0,digit = 0,carry = 0;
-        while(l1 && l2){
-            sum = l1->val + l2->val + carry;
+        while(l1){
+            sum = l1->val * 2  + carry;
             digit = sum %10;
             carry = sum /10;
               AtHead(node,digit);
             l1 = l1->next;
-            l2 = l2->next;
         }
         if(carry){
            AtHead(node,carry);
