@@ -10,19 +10,6 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head){
-        ListNode* prev = NULL;
-        ListNode* curr = NULL;
-        ListNode* temp = head;
-        while(temp){
-            curr = temp;
-            temp  =temp->next;
-            curr->next = prev;
-            prev = curr;
-        }
-        return prev;
-    }
-
     ListNode* AtTail(ListNode* &head,ListNode* &tail,int val){
         ListNode* newNode = new ListNode(val);
 
