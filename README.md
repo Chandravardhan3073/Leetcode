@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0233-number-of-digit-one](https://github.com/Chandravardhan3073/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
