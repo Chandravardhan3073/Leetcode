@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chandravardhan3073/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Chandravardhan3073/Leetcode/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandravardhan3073/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Chandravardhan3073/Leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Chandravardhan3073/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Chandravardhan3073/Leetcode/tree/master/0832-flipping-an-image) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Chandravardhan3073/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2708-maximum-strength-of-a-group](https://github.com/Chandravardhan3073/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1539-kth-missing-positive-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
