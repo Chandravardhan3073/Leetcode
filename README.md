@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Chandravardhan3073/Leetcode/tree/master/0832-flipping-an-image) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Chandravardhan3073/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chandravardhan3073/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Chandravardhan3073/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/Chandravardhan3073/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/Chandravardhan3073/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandravardhan3073/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandravardhan3073/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
