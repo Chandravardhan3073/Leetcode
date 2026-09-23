@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0242-valid-anagram](https://github.com/Chandravardhan3073/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/Chandravardhan3073/Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandravardhan3073/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Chandravardhan3073/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Chandravardhan3073/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Chandravardhan3073/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Chandravardhan3073/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Chandravardhan3073/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandravardhan3073/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandravardhan3073/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/Chandravardhan3073/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Chandravardhan3073/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Chandravardhan3073/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandravardhan3073/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandravardhan3073/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
