@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Chandravardhan3073/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Chandravardhan3073/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chandravardhan3073/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chandravardhan3073/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Chandravardhan3073/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Chandravardhan3073/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0409-longest-palindrome](https://github.com/Chandravardhan3073/Leetcode/tree/master/0409-longest-palindrome) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chandravardhan3073/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Chandravardhan3073/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/Chandravardhan3073/Leetcode/tree/master/0187-repeated-dna-sequences) |
