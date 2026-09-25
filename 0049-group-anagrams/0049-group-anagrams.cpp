@@ -11,7 +11,8 @@ public:
             }
             string temp="";
             for(int i =0;i<freq.size();i++){
-                temp += freq[i];
+                temp += to_string(freq[i]);
+                temp += "#";
             }
             mp[temp].push_back(s);
         }
