@@ -16,7 +16,7 @@ public:
             }
             mp[temp].push_back(s);
         }
-        for(auto it : mp){
+        for(auto &it : mp){
             ans.push_back(it.second);
         }
         return ans;
