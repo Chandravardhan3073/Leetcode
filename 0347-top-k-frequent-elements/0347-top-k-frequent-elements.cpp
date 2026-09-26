@@ -13,12 +13,14 @@ public:
         vector<int> v;
         for (int i = buckets.size()-1;i>=1;i--) {
             for (int x : buckets[i]) {
-                if(v.size() == k){
-                    break;
-                }
                 v.push_back(x);
+                if(v.size() == k){
+                    return v;
+                }
             }
         }
         return v;
     }
 };
+//k is the elementsin the vector  i solved using the bucket sort 
+// for optimised version use priority queue 
