@@ -2,26 +2,29 @@ class Solution {
 public:
     string customSortString(string order, string s) {
         vector<int> freq(26,0);
-        for(int i =0;i<s.size();i++){
-            freq[s[i] - 'a']++;
+        for(char c : s){
+            freq[c - 'a']++;
+        }
+        string t;
+        for(char c : order){
+            while(freq[c - 'a'] >0){
+                t += c;
+                freq[c - 'a']--;
+            }
+        }   
+
+        for(char c : s){
+            while(freq[c - 'a'] > 0){
+                t += c;
+                freq[c -'a']--;
+            }
         }
 
-        string t ;
-        for(char c : order){
-            if(freq[c - 'a'] >= 1){
-                t += string(freq[c - 'a'],c);
-                freq[c - 'a'] = 0;
-            }
-        }
-        
-        for(char c : s){
-            if(freq[c - 'a'] != 0){
-                t+= string(freq[c - 'a'],c);
-                freq[c - 'a'] = 0;
-            }
-        }
+ 
 
         return t;
     }
 };
 //string count , char 
+//FOR THE FIRST APPROACH :
+// if s has more than 2 same char then we just add once and change that freq to 0 so all the same characters are not added twice 
