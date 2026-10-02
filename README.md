@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chandravardhan3073/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Chandravardhan3073/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Chandravardhan3073/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Chandravardhan3073/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Chandravardhan3073/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Chandravardhan3073/Leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Chandravardhan3073/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chandravardhan3073/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandravardhan3073/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Chandravardhan3073/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
