@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Chandravardhan3073/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chandravardhan3073/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Chandravardhan3073/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Chandravardhan3073/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Chandravardhan3073/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Chandravardhan3073/Leetcode/tree/master/0147-insertion-sort-list) |
